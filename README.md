@@ -61,7 +61,7 @@ http://<IP_RPI>:3000
 
 | Netdata | Grafana |
 |----------|----------|
-| ![Netdata Dashboard]([https://github.com/Cayman152/rpi5-monitoring/blob/main/grafana.png](https://github.com/Cayman152/rpi5-monitoring/blob/main/netdata.png)) | ![Grafana Dashboard]([screenshots/grafana.png](https://github.com/Cayman152/rpi5-monitoring/blob/main/grafana.png)) |
+| ![Netdata Dashboard](https://github.com/Cayman152/rpi5-monitoring/blob/main/netdata.png) | ![Grafana Dashboard](https://github.com/Cayman152/rpi5-monitoring/blob/main/grafana.png) |
 
 ---
 
@@ -159,7 +159,7 @@ http://<IP_RPI>:3000
 
 | Netdata | Grafana |
 |----------|----------|
-| ![Netdata Dashboard](screenshots/netdata.png) | ![Grafana Dashboard](screenshots/grafana.png) |
+| ![Netdata Dashboard](https://github.com/Cayman152/rpi5-monitoring/blob/main/netdata.png) | ![Grafana Dashboard](https://github.com/Cayman152/rpi5-monitoring/blob/main/grafana.png) |
 
 ---
 
