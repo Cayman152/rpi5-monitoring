@@ -101,7 +101,7 @@ rpi5-monitoring/
 ## 🧑‍💻 Автор
 
 **NK**  
-GitHub: [https://github.com/NK](https://github.com/NK)
+GitHub: [https://github.com/NK](https://github.com/Cayman152)
 
 ---
 
@@ -176,4 +176,4 @@ http://<IP_RPI>:3000
 ## 🧑‍💻 Author
 
 **NK**  
-GitHub: [https://github.com/NK](https://github.com/NK)
+GitHub: [https://github.com/NK](https://github.com/Cayman152)
